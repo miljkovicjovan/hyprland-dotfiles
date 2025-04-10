@@ -1,0 +1,3 @@
+# Hyprland Dot & Config files
+
+readme incoming...
