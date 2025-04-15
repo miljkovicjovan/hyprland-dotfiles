@@ -4,3 +4,6 @@
 [submodule "neofetch/.config/neofetch"]
 	path = neofetch/.config/neofetch
 	url = git@github.com:miljkovicjovan/neofetch-config.git
+[submodule "rofi/.config/rofi"]
+	path = rofi/.config/rofi
+	url = git@github.com:miljkovicjovan/rofi-config.git
